@@ -1,0 +1,8 @@
+.type {
+  text-transform: capitalize;
+}
+
+.amount,
+.currency {
+  text-align: center;
+}
